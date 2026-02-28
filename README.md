@@ -3,7 +3,6 @@
 
 This repository contains a deep learning research project focused on classifying environmental sounds using the ESC-50 dataset. The project demonstrates the end-to-end pipeline of audio data preprocessing, feature extraction, neural network modeling, and rigorous evaluation.
 
-📄 **[Read the Full Research Paper Here](Nhận_Dạng_Âm_Thanh_Môi_Trường.pdf)** 
  
 ## 🎯 Objectives & Scope
 * **Objective:** Accurately classify raw audio waveforms into 50 distinct environmental sound categories.
@@ -23,6 +22,6 @@ This project was developed and executed using Google Colab to leverage cloud GPU
 
 ## 🧰 Tech Stack
 * **Language:** Python
-* **Deep Learning Framework:** PyTorch / TensorFlow *(💡 Tip: Giữ lại framework bạn đã dùng, ưu tiên PyTorch vì JD yêu cầu)*
+* **Deep Learning Framework:** PyTorch / TensorFlow 
 * **Audio Processing:** `librosa`
 * **Data Science:** `numpy`, `pandas`, `matplotlib`, `scikit-learn`
