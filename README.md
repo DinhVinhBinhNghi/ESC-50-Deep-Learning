@@ -17,7 +17,7 @@ This repository contains a deep learning research project focused on classifying
 
 ## 🚀 How to Run
 This project was developed and executed using Google Colab to leverage cloud GPU acceleration.
-1. Open the notebook directly in Colab: [![Open In Colab](https://colab.research.google.com/drive/1Se_QqukMkBvJwWNM8sLlHxy8agFjyqlD)]
+1. Open the notebook directly in Colab: [![Open In Colab](https://colab.research.google.com/drive/1Se_QqukMkBvJwWNM8sLlHxy8agFjyqlD?usp=sharing)]
 2. Or clone this repository and run `ESC_50_Classification.ipynb` in your local Jupyter environment.
 
 ## 🧰 Tech Stack
